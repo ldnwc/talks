@@ -1,8 +1,8 @@
-<center>
+<p align="center">
 	<a href="https://join.slack.com/t/ldnwc/shared_invite/enQtMzg5ODc4MDM2NzM4LWI5MmUzNTU0ZTcwNmZkMzJlZjA5ZmE0NTBiMTZhYTdjZjljM2FiMDI2NDQ2ZDY0YmEwZDY2YmE4OWY1YTRhMWM">
-		<img src="https://img.shields.io/badge/-join_us-pink.svg?logo=slack&amp;longCache=true&amp;style=flat-square" alt="slack">
+		<img src="https://img.shields.io/badge/-join_us-purple.svg?logo=slack&amp;longCache=true&amp;style=flat-square" alt="slack">
 	</a>
-</center>
+</p>
 
 ### Past and future talks from the London Web Components meetup
 
